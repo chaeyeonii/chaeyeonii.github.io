@@ -21,7 +21,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "안채연"
 description              : "시스템 프로그램을 위한 C언어"
-url                      : url : "https://chaeyeonii.github.io"
+url                      : "https://chaeyeonii.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "chaeyeonii/chaeyeonii.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -97,7 +97,7 @@ author:
   name             : "안채연"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
-  location         : "대한민국, 서울"
+  location         : "대한민국, "
   email            : "ahncy0501@gmail.com"
   links:
     - label: "Email"
