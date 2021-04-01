@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "안채연"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/github.png"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
   location         : "대한민국, 용인"
   email            : "ahncy0501@gmail.com"
