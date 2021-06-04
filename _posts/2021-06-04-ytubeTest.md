@@ -1,5 +1,6 @@
 ---
 layout: single
+categories: "C언어 강좌"
 toc: true
 toc_sticky: true
 toc_label: "페이지 주요 목차"
