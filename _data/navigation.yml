@@ -5,8 +5,8 @@ main:
   - title: "소개"
     url: /about/ #https://mmistakes.github.io/minimal-mistakes/about/
   - title: "연도" #"Sample Posts"
-    url: /psts/ #/year-archive/
+    url: /posts/ #/year-archive/
   - title: "C언어" # "Sample Collections"
-    url: / #/collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+    url: /programming/ #/collection-archive/
+  - title: 분류 #"Sitemap"
+    url: /categories/
