@@ -4,7 +4,7 @@ title:  "조건문"
 toc: ture
 toc_sticky: true
 toc_label: "페이지 주요 목차"
-categories: "형성평가"
+categories: "C언어"last_modified_at: 2021-06-17 TO8:06:00-05:00 
 ---
 
 ### 01. 사주보기
